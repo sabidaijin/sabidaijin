@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hiro_yama
-- 👀 I’m interested in ...sports and 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in handball 🤾sports and 
+- 🌱 I’m currently learning java/javascript/python/c/PHP/swift/swiftUi/
+
 
 <!---
 sabidaijin/sabidaijin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
